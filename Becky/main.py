@@ -29,7 +29,7 @@ HELP_TEXT = """--**More Help**--
 - I will download it
 - I will send the photo or video without background
 
-Made by @FayasNoushad"""
+Made by @wxjahat"""
 
 ABOUT_TEXT = """**About Me**
 
