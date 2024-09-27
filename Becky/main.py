@@ -34,9 +34,9 @@ Made by @wxjahat"""
 ABOUT_TEXT = """**About Me**
 
 - **Bot :** `Backround Remover Bot`
-- **Developer :** [Fayas](https://github.com/FayasNoushad)
+- **Developer :** [Fayas](https://github.com/wajahatdevelops)
 - **Channel :** [Fayas Noushad](https://telegram.me/FayasNoushad)
-- **Source :** [Click here](https://github.com/FayasNoushad/Remove-BG-Bot)
+- **Source :** [Click here](https://github.com/wxjahat/Remove-BG-Bot)
 - **Language :** [Python3](https://python.org)
 - **Library :** [Pyrogram](https://pyrogram.org)"""
 
